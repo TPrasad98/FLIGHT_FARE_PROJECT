@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url('https://media.npr.org/assets/img/2021/10/06/gettyimages-1302813215_wide-6c48e5a6aff547d2703693450c4805978de47435-s900-c85.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+
+.footer{
+    background-color: #E9E9E9;
+    color: #000000;
+    font-weight: bold;
+    padding: 0px;
+    text-align: center;
+}
